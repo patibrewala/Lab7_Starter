@@ -2,4 +2,4 @@
 
 Worked alone
 
-Published at: https://patibrewala.github.io/
+https://patibrewala.github.io/
